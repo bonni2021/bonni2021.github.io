@@ -25,7 +25,7 @@ header:
 
 [B.Sc. Thesis Project]
 
-##Title : Exploring antibacterial activity of Azadirachta indica (neem) against multidrug resistant bacteria isolated from beef.
+**Title : Exploring antibacterial activity of Azadirachta indica (neem) against multidrug resistant bacteria isolated from beef.**
 
 
 The vast and improper use of antibiotic to treat infections has resulted in the development of resistant strains which have rendered antibiotic treatments ineffective. The aim of this study was to determine the efficacy of Azadirachta indica (neem) leaf extract against five multidrug resistant pathogenic bacteria among which three of them showed significant results. Antibiotic profiles of these bacterias were determined by disk diffusion method and ethanolic extract was used. It is concluded that neem juice is an antibacterial agent and useful for inhibition of bacteria of beef.
