@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Md Ahasanuzzaman"
+title                    : "Sumaiya Afrin"
 title_separator          : "-"
-name                     : &name "Md Ahasanuzzaman"
-description              : &description "Postdoc in Political Science"
-url                      : https://ahsan2010.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sumaiya Afrin"
+description              : &description "Undergraduate Student"
+url                      : https://bonni2021.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ahsan2010/ahsan2010.github.io"
+repository               : "bonni2021/bonni2021.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,12 +57,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : MAhasanuzzaman
+  username               : 
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : profile.png # Open Graph/Twitter default site image
+og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -82,15 +82,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Md Ahasanuzzaman"
-  avatar           : "profile.png"
-  bio              : "Graduate Research Assistant"
-  location         : "Kingston, ON, Canada"
+  name             : "Sumaiya Afrin"
+  avatar           : "profile_picture_bonni.jpeg"
+  bio              : "Undergraduate Student (Final Term)"
+  location         : "Khulna, Bangladesh"
   employer         :
   pubmed           :
-  orcid            : "https://orcid.org/0000-0002-3709-2741"
-  googlescholar    : "https://scholar.google.ca/citations?user=7H2HIWgAAAAJ&hl=en"
-  email            : "ahsan.du.2010@gmail.com"
+  orcid            : 
+  googlescholar    : 
+  email            : "sa.bonni0739@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ahsan2010"
+  github           : "bonni2021"
   gitlab           : 
   google_plus      :
   keybase          :
@@ -112,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "MAhasanuzzaman"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
